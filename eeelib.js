@@ -33,7 +33,7 @@ var _ = require('underscore');
     module.exports = EEELib;
   } else {
     if (typeof define === 'function' && define.amd) {
-      define([], function() {
+      define(['underscore'], function() {
         return EEELib;
       });
     } else {
