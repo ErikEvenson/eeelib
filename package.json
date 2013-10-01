@@ -1,0 +1,23 @@
+{
+  "name": "eeelib",
+  "version": "0.0.0",
+  "description": "eeelib",
+  "main": "eeelib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ErikEvenson/eeelib.git"
+  },
+  "author": "Erik E. Evenson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "241d7dbd060e57f47e693e1a3ddcc99cd657aab5",
+  "bugs": {
+    "url": "https://github.com/ErikEvenson/eeelib/issues"
+  },
+  "dependencies": {
+    "underscore": "1.5.2"
+  }
+}
