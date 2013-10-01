@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/ErikEvenson/eeelib.git"
   },
-  "author": "Erik E. Evenson",
+  "author": "Erik Evenson <erik.e.evenson@gmail.com>",
   "license": "BSD",
   "readmeFilename": "README.md",
   "gitHead": "241d7dbd060e57f47e693e1a3ddcc99cd657aab5",
